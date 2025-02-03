@@ -164,3 +164,5 @@ make bench     # Benchmarks
 **License:** Apache-2.0
 
 # PR Merge: 2025-10-23 - feature/merge-7026
+
+# PR Merge: 2025-10-23 - refactor/merge-9969
